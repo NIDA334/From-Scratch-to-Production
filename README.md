@@ -1013,10 +1013,7 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
+- **GitHub**: [@NotHarshhaa](https://github.com/NIDA334)
 ---
 
 ## ⭐ Support the Project  
